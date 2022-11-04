@@ -1,4 +1,4 @@
-### 利用ocr识别将pdf转为docx
+### 利用ocr将pdf转为docx
 
 #### 背景
 该项目首先将pdf文件转为图片形式，再使用百度的paddleocr对这些图片文件分别进行识别，利用PPStructure对识别的内容进行结构化，最终将结构化的内容保存成docx文件，
