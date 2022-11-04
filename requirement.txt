@@ -1,0 +1,6 @@
+python-docx
+opencv
+paddle
+docxcompose
+PyMuPDF
+fitz
